@@ -1,0 +1,16 @@
+{
+  "employess": [
+    {
+      "name": "yunus emre er",
+      "department": "web developer",
+      "salary": 38000,
+      "id": 1
+    },
+    {
+      "name": "sueda ovalioglu",
+      "department": "english teacher",
+      "salary": 38000,
+      "id": 2
+    }
+  ]
+}
